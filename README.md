@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rugiya</h1>
 <h3 align="center">I'm a Full Stack Python/Django Web developer</h3>
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+[![MasterHead]("https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png")
 
 
 - 📫 How to reach me **rugiyamursaliyeva@gmail.com**
