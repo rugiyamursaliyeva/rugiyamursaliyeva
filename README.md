@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Rugiya</h1>
-<h3 align="center">I'm a Full Stack Python/Django Web developer</h3>
+<h3 align="center">I'm a Full Stack Python/Django/REACT/Node.js Web developer</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image" />
 </p>
